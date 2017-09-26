@@ -4,7 +4,7 @@ The archive file contains all the KNIME Workflows needed to recapitulate the res
 
 Note that the workflows still need some polishing and testing. They will eventually be available on the KNIME Public Examples server. For the time being, please let me know if you have any issues jon(dot)fuller[at]knime(point)com
 
-You'll need to download/install [KNIME Analytics Platform](https://www.knime.com), and then  [import the archive](https://www.knime.com/knime-introductory-course/chapter1/import-export-workflows).
+You'll need to download/install [KNIME Analytics Platform](https://www.knime.com), and then  [import the archive](https://www.knime.com/knime-introductory-course/chapter1/import-export-workflows). To use workflow 2b. Read Images and Train Model (Keras), you'll need to use the [KNIME Analytics Platfrom Nightly Builds](https://www.knime.com/nightly-build-downloads) (all the usual caveats with using nightly builds apply...).
 
 Included are 5 workflows.
 0. Download Dataset. Will download and extract the dataset to either your local workspace, or an Azure Blob Storage container.  Note that the tar.gz file is ~ 2Gb. See links below for citations.
